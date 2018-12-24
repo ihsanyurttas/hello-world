@@ -1,2 +1,3 @@
 # hello-world
-print "Hello World!"
+print "This is Ihsan"
+print "Say hello :)"
